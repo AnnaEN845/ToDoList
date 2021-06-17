@@ -1,0 +1,53 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  background-color: #fff1e8
+}
+
+li {
+  list-style: none;
+  border: 2px solid;
+  border-radius: 20px;
+  box-shadow: 10px 10px 5px grey;
+  margin: 20px;
+  padding: 20px;
+}
+
+textarea {
+  width: 100%;
+  padding: 12px 20px;
+  border: 1px solid;
+  border-radius: 4px;
+  resize: none;
+}
+.titleInput {
+  width: 100%;
+  padding: 12px 20px;
+  border: 1px solid;
+  border-radius: 4px;
+}
+.modal-page{
+  background-color:#fff1e8 ;
+}
+.big-heading {
+  font-family: 'Merriweather', serif;
+  font-weight: bold;
+  font-size: 2.5rem;
+  line-height: 1.5;
+}
+
+.row {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.main-container {
+  width: 75%;
+  margin-top: 20px;
+}
+.redBorder{
+  border-color: red;
+}
+.done {
+  text-decoration: line-through;
+}
